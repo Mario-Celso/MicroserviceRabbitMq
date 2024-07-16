@@ -35,10 +35,6 @@ Adicione as seguintes configurações no arquivo `appsettings.json`:
 
 ## Como Executar
 
-### Docker Compose
-
-Execute o Docker Compose:
-
 ### Execute o Docker Compose:
 
 	docker-compose up --build
